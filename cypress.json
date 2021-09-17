@@ -1,0 +1,7 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "https://google.com",
+    "projectId": "sorry-cypress",
+    "video": false,
+    "redirectionLimit" : 800
+}
